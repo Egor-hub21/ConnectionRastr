@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Core\" />
+    <ProjectReference Include="..\ConnectionRastr\ConnectionRastr.csproj" />
   </ItemGroup>
 
 </Project>
